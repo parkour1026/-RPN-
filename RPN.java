@@ -180,6 +180,5 @@ public static String Result(String str[])
                 }
         }
         return Result[Top];
-        test();
 }
 }
